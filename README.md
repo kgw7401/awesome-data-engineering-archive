@@ -1,2 +1,10 @@
-# awesome-data-engineering-archive
-archive for great data engineering content, news, academic material
+# DE Archive
+DE Archive는 데이터 엔지니어링 관련 좋은 자료들을 주기적으로 모으고, 간단한 요약말과 함께 제공하려고 합니다.
+
+## 발행주기
+최대한 하루에 하나씩은 올리려고 하지만 정확하게 정해진 주기는 따로 없습니다.
+
+## 발행방법
+전체 README 파일에 지금까지 올린 글들을 카테고라이징 하고, 최신소식 항목을 통해 가장 최근에 업로드된 글들에 대한 목록을 따로 확인할 수 있습니다.
+
+## 최신소식
